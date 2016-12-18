@@ -12,7 +12,7 @@ Killer Whale (Orca)
 
 <img src = "http://ichef.bbci.co.uk/naturelibrary/images/ic/credit/640x395/k/ki/killer_whale/killer_whale_1.jpg">
 
-<p>Orcas, or killer whales, are the largest of the dolphins and one of the world's most powerful predators. They feast on marine mammals such as seals, sea lions, and even whales, employing teeth that can be four inches (ten centimeters) long. They are known to grab seals right off the ice. They also eat fish, squid, and seabirds.
+Orcas, or killer whales, are the largest of the dolphins and one of the world's most powerful predators. They feast on marine mammals such as seals, sea lions, and even whales, employing teeth that can be four inches (ten centimeters) long. They are known to grab seals right off the ice. They also eat fish, squid, and seabirds.
 
 Though they often frequent cold, coastal waters, orcas can be found from the polar regions to the Equator.
 
@@ -26,8 +26,12 @@ Breeding
 
 Killer whales are protective of their young, and other adolescent females often assist the mother in caring for them. Mothers give birth every three to ten years, after a 17-month pregnancy.
 
-Orcas are immediately recognizable by their distinctive black-and-white coloring and are the intelligent, trainable stars of many aquarium shows. Killer whales have never been extensively hunted by humans.</p>
+Orcas are immediately recognizable by their distinctive black-and-white coloring and are the intelligent, trainable stars of many aquarium shows. Killer whales have never been extensively hunted by humans.
 
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
 
 
