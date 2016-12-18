@@ -4,13 +4,13 @@ title:  "Orca, a powerful animal."
 date:   2016-12-17 17:17:52 -0500
 categories: jekyll update
 ---
-<h1> Killer Whale (Orca)</h1>
+Killer Whale (Orca)
 
 {% highlight ruby %}
  Orcinus orca
 {% endhighlight %}
 
-<img src = "https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwjonLDVy_zQAhWEjpAKHVJhB_IQjRwIBw&url=http%3A%2F%2Fanimals.nationalgeographic.com%2Fanimals%2Fmammals%2Fkiller-whale%2F&psig=AFQjCNGZksrc3Yj4QSRo_G8Vvos_Jg64zw&ust=1482110946547430">
+<img src = "http://ichef.bbci.co.uk/naturelibrary/images/ic/credit/640x395/k/ki/killer_whale/killer_whale_1.jpg">
 
 <p>Orcas, or killer whales, are the largest of the dolphins and one of the world's most powerful predators. They feast on marine mammals such as seals, sea lions, and even whales, employing teeth that can be four inches (ten centimeters) long. They are known to grab seals right off the ice. They also eat fish, squid, and seabirds.
 
