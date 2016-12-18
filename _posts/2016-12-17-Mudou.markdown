@@ -10,7 +10,7 @@ Esse é o primeiro post:
  Sem criatividade por enquanto.
 {% endhighlight %}
 
-Check out the [Google]
+Check out the [Google] [Google]
 
 [jekyll-docs]: http://google.com.br
 
