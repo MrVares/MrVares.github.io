@@ -1,9 +1,4 @@
-﻿---
-layout: post
-title:  "Orca, a powerful animal."
-date:   2016-12-17 17:17:52 -0500
-categories: jekyll update
----
+﻿
 Killer Whale (Orca)
 
 {% highlight ruby %}
