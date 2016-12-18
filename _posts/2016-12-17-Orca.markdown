@@ -1,8 +1,6 @@
 ﻿---
 layout: post
-title:  "Orca!"
-date:   2016-12-11 15:53:52 -0500
-categories: jekyll update
+title: Orca
 ---
 Killer Whale
 
