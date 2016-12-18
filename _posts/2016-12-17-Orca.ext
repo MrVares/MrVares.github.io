@@ -1,0 +1,37 @@
+﻿---
+layout: post
+title:  "Orca!"
+date:   2016-12-11 15:53:52 -0500
+categories: jekyll update
+---
+Killer Whale
+
+{% highlight ruby %}
+ Orcinus orca
+{% endhighlight %}
+
+<img src = "http://ichef.bbci.co.uk/naturelibrary/images/ic/credit/640x395/k/ki/killer_whale/killer_whale_1.jpg">
+
+Orcas, or killer whales, are the largest of the dolphins and one of the world's most powerful predators. They feast on marine mammals such as seals, sea lions, and even whales, employing teeth that can be four inches (ten centimeters) long. They are known to grab seals right off the ice. They also eat fish, squid, and seabirds.
+
+Though they often frequent cold, coastal waters, orcas can be found from the polar regions to the Equator.
+
+Hunting and Communication
+
+Killer whales hunt in deadly pods, family groups of up to 40 individuals. There appear to be both resident and transient pod populations of killer whales. These different groups may prey on different animals and use different techniques to catch them. Resident pods tend to prefer fish, while transient pods target marine mammals. All pods use effective, cooperative hunting techniques that some liken to the behavior of wolf packs.
+
+Whales make a wide variety of communicative sounds, and each pod has distinctive noises that its members will recognize even at a distance. They use echolocation to communicate and hunt, making sounds that travel underwater until they encounter objects, then bounce back, revealing their location, size, and shape.
+
+Breeding
+
+Killer whales are protective of their young, and other adolescent females often assist the mother in caring for them. Mothers give birth every three to ten years, after a 17-month pregnancy.
+
+Orcas are immediately recognizable by their distinctive black-and-white coloring and are the intelligent, trainable stars of many aquarium shows. Killer whales have never been extensively hunted by humans.
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+
+
